@@ -1,0 +1,25 @@
+body{
+ background-color: aqua;
+ color: darkblue;
+
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects{
+    color: darkolivegreen;
+
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border:2px dashed darkorange;
+
+}
+#result_object_name{
+    color: rgb(247, 6, 6);
+}
+#result_object_accureacy{
+    color: gold;
+}
